@@ -3,6 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+![image-title-here](/assets/profile.png){:class="img-responsive" width="20%"}
 
 Not only I work developing software, I love programming 👨🏻‍💻. I keep up to date by following engineering blogs from top companies and interesting twitter accounts, where I also follow high profile devs.
 
